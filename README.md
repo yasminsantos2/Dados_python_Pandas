@@ -14,7 +14,12 @@ O projeto foi organizado seguindo padrões de Ciência de Dados:
 
 ### Análises em Python
 - `aula1.ipynb`: Leitura de arquivos CSV, tratamento de delimitadores e exportação de dados.
+Leitura e tratamento de arquivos CSV contendo dados de clientes de um supermercado.  
+Inclui ajuste de delimitadores, seleção de colunas e exportação de uma base simplificada com **ID, ano de nascimento e renda**, pronta para análises de perfil de clientes.
+
 - `Aula_2.ipynb`: Manipulação de arquivos Excel (.xlsx), seleção de abas (sheets) e engine `openpyxl`.
+Manipulação de arquivos Excel com múltiplas abas contendo dados históricos de emissões de CO₂ por país.  
+Inclui leitura de planilhas, seleção de sheets específicas e preparação de dados de **emissões totais e per capita**, aplicando técnicas de extração e organização de dados ambientais.
 
 ### Arquivos de Dados
 - `clientes_mercado.csv` / `dados_mercado.csv`: Bases CSV de exemplo.
