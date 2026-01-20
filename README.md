@@ -1,16 +1,10 @@
 # Python Pandas: Manipulação de Dados e Planilhas
 
+## Estrutura do Projeto
+
 - **notebooks/** → Jupyter Notebooks com os códigos e análises  
 - **data/** → Bases de dados brutas e processadas  
 *A pasta `data` segue a convenção padrão em projetos de Data Science.*
-
-## Estrutura do Projeto
-
-O projeto foi organizado seguindo padrões de Ciência de Dados:
-
-- **[notebooks/](notebooks/)**: Jupyter Notebooks com as análises e códigos Python.
-- **[data/](data/)**: Arquivos de dados (planilhas) brutos e processados.
-  - *Nota: O nome `data` é a convenção em Python e Data Science para pastas de recursos de dados.*
 
 ## Conteúdo Técnico
 
