@@ -1,6 +1,8 @@
 # Python Pandas: Manipulação de Dados e Planilhas
 
-Este repositório é dedicado ao estudo e prática de manipulação de planilhas e diferentes formatos de arquivos (CSV, XLSX, JSON) utilizando a biblioteca **Pandas** no Python.
+- **notebooks/** → Jupyter Notebooks com os códigos e análises  
+- **data/** → Bases de dados brutas e processadas  
+*A pasta `data` segue a convenção padrão em projetos de Data Science.*
 
 ## Estrutura do Projeto
 
